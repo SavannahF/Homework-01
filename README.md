@@ -8,7 +8,8 @@ Aside from that, if one were to assume a nonfictitious scenario:
 
 This project was built for the purpose of adhering to accessibility standards and maximizing SEO for a marketing agency's website. 
 
-<!-- Lastly, if your project is deployed, include a link to the deployed application here. -->
+https://savannahf.github.io/Homework-01/
+
 
 ## Installation
 
